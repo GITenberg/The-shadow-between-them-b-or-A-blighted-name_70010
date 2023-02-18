@@ -1,0 +1,34 @@
+_repo: The-shadow-between-them-b-or-A-blighted-name_70010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex McVeigh
+    - Miller, Alexander McVeigh, Mrs.
+    - Point, Mittie Frances Clarke
+    - Miller, Mrs. Alex. McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+    wikipedia: https://en.wikipedia.org/wiki/Mittie_Frances_Clarke_Point
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '70010'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:701682
+pgterms:marc905: 20220329100118miller
+pgterms:marc906: '1900'
+pgterms:marc907: us
+production_note: Demian Katz, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aUnited States :$bStreet & Smith, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The shadow between them : $b or, A blighted name'
+url: http://www.gutenberg.org/ebooks/70010
